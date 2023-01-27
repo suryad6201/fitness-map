@@ -307,5 +307,7 @@ class App {
     location.reload();
   }
 }
-
+alert(
+  `I didn't focused on CSS and Responsiveness. Please view in larger devices..! Thanks.`
+);
 const app = new App();
